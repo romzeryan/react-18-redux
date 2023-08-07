@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-18-redux/01-best-seller-books-fundamentals/static/css/main.9893787a.css",
-    "main.js": "/react-18-redux/01-best-seller-books-fundamentals/static/js/main.91997131.js",
-    "static/media/book3.jpg": "/react-18-redux/01-best-seller-books-fundamentals/static/media/book3.de2d57ffd4f7dccdb301.jpg",
-    "static/media/book1.jpg": "/react-18-redux/01-best-seller-books-fundamentals/static/media/book1.c6e46ec73de70cf7b5b0.jpg",
-    "static/media/book2.jpg": "/react-18-redux/01-best-seller-books-fundamentals/static/media/book2.5e30cbaef91b1b98be29.jpg",
-    "index.html": "/react-18-redux/01-best-seller-books-fundamentals/index.html",
-    "main.9893787a.css.map": "/react-18-redux/01-best-seller-books-fundamentals/static/css/main.9893787a.css.map",
-    "main.91997131.js.map": "/react-18-redux/01-best-seller-books-fundamentals/static/js/main.91997131.js.map"
+    "main.css": "/react-18-redux/static/css/main.9893787a.css",
+    "main.js": "/react-18-redux/static/js/main.633c5446.js",
+    "static/media/book3.jpg": "/react-18-redux/static/media/book3.de2d57ffd4f7dccdb301.jpg",
+    "static/media/book1.jpg": "/react-18-redux/static/media/book1.c6e46ec73de70cf7b5b0.jpg",
+    "static/media/book2.jpg": "/react-18-redux/static/media/book2.5e30cbaef91b1b98be29.jpg",
+    "index.html": "/react-18-redux/index.html",
+    "main.9893787a.css.map": "/react-18-redux/static/css/main.9893787a.css.map",
+    "main.633c5446.js.map": "/react-18-redux/static/js/main.633c5446.js.map"
   },
   "entrypoints": [
     "static/css/main.9893787a.css",
-    "static/js/main.91997131.js"
+    "static/js/main.633c5446.js"
   ]
 }
